@@ -7,8 +7,5 @@ except ImportError:
 setup(name='ThreeScalePY',
       version='1.0',
       py_modules=['ThreeScalePY'],
-      install_requires=[
-          "libxml2"
-      ],
 )
 
